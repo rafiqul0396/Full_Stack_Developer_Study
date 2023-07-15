@@ -1,0 +1,1 @@
+- i have left Q3.HomeWork problem  the folder name is bit manipulation
